@@ -57,6 +57,7 @@ GAME_PRICES = {
     }
 }
 
+
 GAMES_CONFIG_FILE = "games_config.json"
 
 # Global variables for edit mode
